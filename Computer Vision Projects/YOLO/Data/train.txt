@@ -1,0 +1,17 @@
+/home/kris/Downloads/Tensorflow_files/YOLO-3-OpenCV/Video_Frames/Labelled Frames/image-001.jpeg
+/home/kris/Downloads/Tensorflow_files/YOLO-3-OpenCV/Video_Frames/Labelled Frames/image-005.jpeg
+/home/kris/Downloads/Tensorflow_files/YOLO-3-OpenCV/Video_Frames/Labelled Frames/image-006.jpeg
+/home/kris/Downloads/Tensorflow_files/YOLO-3-OpenCV/Video_Frames/Labelled Frames/image-015.jpeg
+/home/kris/Downloads/Tensorflow_files/YOLO-3-OpenCV/Video_Frames/Labelled Frames/image-003.jpeg
+/home/kris/Downloads/Tensorflow_files/YOLO-3-OpenCV/Video_Frames/Labelled Frames/image-018.jpeg
+/home/kris/Downloads/Tensorflow_files/YOLO-3-OpenCV/Video_Frames/Labelled Frames/image-007.jpeg
+/home/kris/Downloads/Tensorflow_files/YOLO-3-OpenCV/Video_Frames/Labelled Frames/image-019.jpeg
+/home/kris/Downloads/Tensorflow_files/YOLO-3-OpenCV/Video_Frames/Labelled Frames/image-011.jpeg
+/home/kris/Downloads/Tensorflow_files/YOLO-3-OpenCV/Video_Frames/Labelled Frames/image-010.jpeg
+/home/kris/Downloads/Tensorflow_files/YOLO-3-OpenCV/Video_Frames/Labelled Frames/image-017.jpeg
+/home/kris/Downloads/Tensorflow_files/YOLO-3-OpenCV/Video_Frames/Labelled Frames/image-016.jpeg
+/home/kris/Downloads/Tensorflow_files/YOLO-3-OpenCV/Video_Frames/Labelled Frames/image-004.jpeg
+/home/kris/Downloads/Tensorflow_files/YOLO-3-OpenCV/Video_Frames/Labelled Frames/image-002.jpeg
+/home/kris/Downloads/Tensorflow_files/YOLO-3-OpenCV/Video_Frames/Labelled Frames/image-014.jpeg
+/home/kris/Downloads/Tensorflow_files/YOLO-3-OpenCV/Video_Frames/Labelled Frames/image-009.jpeg
+/home/kris/Downloads/Tensorflow_files/YOLO-3-OpenCV/Video_Frames/Labelled Frames/image-012.jpeg
